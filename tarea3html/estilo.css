@@ -1,0 +1,31 @@
+body {
+	color: #7D3C98;
+	background-color: rgb(254,245,231);
+}
+h1{
+	font-size: 4em;
+	text-align: center;
+	padding: 10px;
+	margin: 0 auto;
+	backbround-color: green;
+	width: 80%;
+	border-radius: 15px;
+}
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color:greenyellow;
+	border: 2px seagreen;
+	border-radius: orange;
+	background-color: orange;
+	padding: 5px;
+}
+a:hover{
+	background-color: green;
+}
+ul{
+	list.style: none;
+}
+li{
+	margin: 20px;
+}
